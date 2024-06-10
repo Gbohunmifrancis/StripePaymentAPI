@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SddIcKxhhBwC9OPOwkThCNj25KC2IKkTQOjF1uyGLqk=",
+  "Source": "StripeAPI",
+  "BasePath": "_content/StripeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
